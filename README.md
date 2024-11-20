@@ -1,6 +1,6 @@
 ## Business Context
 
-## Atliq Hardwares , a global hardware manufacturing company, operates through a diverse range of sales channels, including Retailers, Direct Sales, and Distributors, offering its products in both online and offline formats.
+Atliq Hardwares , a global hardware manufacturing company, operates through a diverse range of sales channels, including Retailers, Direct Sales, and Distributors, offering its products in both online and offline formats.
 
 With a vast repository of data generated from these operations, the company is now keen on extracting actionable insights to better understand its sales performance and financial health.
 
