@@ -1,3 +1,12 @@
+## Business Context
+
+## Atliq Hardwares , a global hardware manufacturing company, operates through a diverse range of sales channels, including Retailers, Direct Sales, and Distributors, offering its products in both online and offline formats.
+
+With a vast repository of data generated from these operations, the company is now keen on extracting actionable insights to better understand its sales performance and financial health.
+
+The objective is to leverage a simple yet powerful tool—Microsoft Excel, often regarded as the cornerstone of business intelligence, to transform raw data into meaningful analytics that can drive smarter business decisions.
+
+By harnessing the capabilities of Excel, Atliq Hardwares aims to bridge the gap between raw data and actionable insights, empowering their teams to make informed, data-driven strategies for sustained growth and profitability.
 ## Sales Report :
 
 
